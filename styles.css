@@ -1,0 +1,130 @@
+:root {
+    --dark_color: rgb(16, 38, 46);
+    --dark_inverted: rgb(239, 217, 209);
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+
+.top-container {
+    display: flex;
+    flex: 1 1 0;
+    background-color: skyblue;
+    flex-direction: column;
+    height: 100%;
+}
+
+.top-container nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1em;
+    flex: 1 1 0;
+    align-items: center;
+    max-height: 10em;
+}
+
+.top-container nav h1 {
+    color: black;
+    font-size: 3.4em;
+    text-align: center;
+    margin: 0 .5em 0 .5em;
+}
+
+.top-container nav div a {
+    color: black;
+    padding: 1em .5em 1em .5em;
+    text-decoration: none;
+    border-radius: .2em;
+    margin: 0 .1em 0 .1em;
+    text-wrap: nowrap;
+    display: inline-block;
+    font-size: 1.5em;
+}
+
+
+/* refactor for responsiveness */
+.top-container nav div a:hover {
+    background-color: var(--dark_color);
+    transition-duration: .5s;
+    color: whitesmoke
+}
+
+.top-container nav div a:visited {
+    text-decoration: none;
+}
+
+.top-container nav a img:hover {
+    filter: invert(100%);
+    transition-duration: .5s;
+    background-color: var(--dark_inverted);
+    border-radius: .5em;
+}
+
+.top-container nav #logo {
+    width: 7em;
+    padding: 1em;
+}
+/* . */
+
+
+.second-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+    overflow-y: scroll;
+    background-color: var(--dark_color);
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--dark_color);
+    /* refactor */
+    width: 75%;
+    flex: 1 1 0;
+    background-color: rgb(25, 49, 59);
+    padding: 2em 2em 0 2em;
+}
+
+.content h2 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 3em;
+}
+
+.content p {
+    text-align: left;
+    color: whitesmoke;
+    font-size: 1.5em;
+}
+
+.content hr {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.second-container footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(20, 105, 70);
+    width: 100%;
+    min-height: 10em;
+    align-items: center;
+}
+
+.spaced {
+    line-height: 1.8;
+}
+
+
+
