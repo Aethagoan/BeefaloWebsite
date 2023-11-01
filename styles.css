@@ -112,6 +112,10 @@ html, body {
     margin-bottom: 1em;
 }
 
+.content img {
+    width: 100%;
+}
+
 .second-container footer {
     display: flex;
     flex-direction: row;
@@ -126,5 +130,12 @@ html, body {
     line-height: 1.8;
 }
 
+.contact p {
+    margin: .2em 0 .2em 0;
+}
+
+#current-page-link {
+    text-decoration-line: underline;
+}
 
 
