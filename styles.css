@@ -1,6 +1,10 @@
 :root {
     --dark_color: rgb(16, 38, 46);
     --dark_inverted: rgb(239, 217, 209);
+    --green_color: rgb(20, 105, 70);
+    --secondary_dark_color: rgb(25, 49, 59);
+    --light_text_color: rgb(233, 233, 233);
+    --dark_text_color: rgb(0, 0, 0);
 }
 
 html, body {
@@ -23,28 +27,28 @@ html, body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 1em;
+    padding: 1rem;
     flex: 1 1 0;
     align-items: center;
-    max-height: 10em;
+    max-height: 10rem;
 }
 
 .top-container nav h1 {
-    color: black;
-    font-size: 3.4em;
+    color: var(--dark_text_color);
+    font-size: 3.4rem;
     text-align: center;
-    margin: 0 .5em 0 .5em;
+    margin: 0 .5rem 0 .5rem;
 }
 
 .top-container nav div a {
-    color: black;
-    padding: 1em .5em 1em .5em;
+    color: var(--dark_text_color);
+    padding: 1rem .5rem 1rem .5rem;
     text-decoration: none;
-    border-radius: .2em;
-    margin: 0 .1em 0 .1em;
+    border-radius: .2rem;
+    margin: 0 .1rem 0 .1rem;
     text-wrap: nowrap;
     display: inline-block;
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 
@@ -52,7 +56,7 @@ html, body {
 .top-container nav div a:hover {
     background-color: var(--dark_color);
     transition-duration: .5s;
-    color: whitesmoke
+    color: var(--light_text_color)
 }
 
 .top-container nav div a:visited {
@@ -63,12 +67,12 @@ html, body {
     filter: invert(100%);
     transition-duration: .5s;
     background-color: var(--dark_inverted);
-    border-radius: .5em;
+    border-radius: .5rem;
 }
 
 .top-container nav #logo {
-    width: 7em;
-    padding: 1em;
+    width: 7rem;
+    padding: 1rem;
 }
 /* . */
 
@@ -91,25 +95,25 @@ html, body {
     /* refactor */
     width: 75%;
     flex: 1 1 0;
-    background-color: rgb(25, 49, 59);
-    padding: 2em 2em 0 2em;
+    background-color: var(--secondary_dark_color);
+    padding: 2rem 2rem 5rem 2rem;
 }
 
 .content h2 {
     text-align: center;
-    color: whitesmoke;
-    font-size: 3em;
+    color: var(--light_text_color);
+    font-size: 3rem;
 }
 
 .content p {
     text-align: left;
-    color: whitesmoke;
-    font-size: 1.5em;
+    color: var(--light_text_color);
+    font-size: 1.5rem;
 }
 
 .content hr {
     width: 100%;
-    margin-bottom: 1em;
+    margin-bottom: 1rem;
 }
 
 .content img {
@@ -120,9 +124,9 @@ html, body {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color: rgb(20, 105, 70);
+    background-color: var(--green_color);
     width: 100%;
-    min-height: 10em;
+    min-height: 10rem;
     align-items: center;
 }
 
@@ -131,11 +135,89 @@ html, body {
 }
 
 .contact p {
-    margin: .2em 0 .2em 0;
+    margin: .2rem 0 .2rem 0;
 }
 
 #current-page-link {
     text-decoration-line: underline;
+    text-decoration-thickness: .2rem;
 }
 
+
+#buy-cards-container {
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    flex: 1 0 0;
+
+    gap: 1rem;
+}
+
+.product-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1 0 0;
+    padding: 1rem 2rem;
+    margin: 0;
+
+    background-color: rgb(111, 174, 199);
+    border-radius: 2rem;
+}
+
+.item-contents {
+    display:flex;
+    flex-direction: column;
+    justify-content: right;
+}
+
+.item-contents p {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    text-align: right;
+}
+
+.product-card p {
+    margin: .1rem;
+}
+
+.product-card .price {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0 0 0;
+}
+
+.product-card .order-button {
+    text-decoration: none;
+    align-self: center;
+    background-color: var(--dark_color);
+    padding: 1rem;
+    border-radius: .5rem;
+    color: var(--light_text_color);
+
+    font-size: 1rem;
+}
+
+.product-card:hover {
+    transition-duration: .3s;
+    background-color: rgb(129, 191, 216);
+}
+
+.product-card .order-button:hover {
+    transition-duration: .3s;
+    background-color: var(--green_color);
+}
+
+
+
+
+@media only screen and (max-width: 1000px) {
+    #buy-cards-container {
+        display: inline-grid;
+        grid-template-columns: 1fr;
+        flex: 1 0 0;
+    
+        gap: 1rem;
+    }
+} 
 
