@@ -1,759 +1,2580 @@
 {
     "cooler 1": {
-        "price": "89.60",
-        "Beefalo Heart": 1,
-        "Beefalo Liver": 2,
-        "Beefalo Tongue": 1,
-        "Beefalo Fox Tail": 1
+        "price": [
+            89.6,
+            8.96
+        ],
+        "Beefalo Heart": [
+            1,
+            1.76
+        ],
+        "Beefalo Liver": [
+            2,
+            3.18
+        ],
+        "Beefalo Tongue": [
+            1,
+            1.95
+        ],
+        "Beefalo Fox Tail": [
+            1,
+            2.07
+        ]
     },
     "cooler 2": {
-        "price": "434.45",
-        "Sirloin Tip": 1,
-        "Flat Iron": 2,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 22,
-        "Minute Steak": 2,
-        "New York Strip": 3,
-        "Fillet": 2
+        "price": [
+            434.45,
+            53.13
+        ],
+        "Sirloin Tip": [
+            1,
+            3.63
+        ],
+        "Flat Iron": [
+            2,
+            1.51
+        ],
+        "Ribeye Steak": [
+            2,
+            4.27
+        ],
+        "Chuck Roast": [
+            2,
+            4.48
+        ],
+        "Ground Beefalo": [
+            22,
+            30.09
+        ],
+        "Minute Steak": [
+            2,
+            3.51
+        ],
+        "New York Strip": [
+            3,
+            3.45
+        ],
+        "Fillet": [
+            2,
+            2.19
+        ]
     },
     "cooler 3": {
-        "price": "430.99",
-        "Flanken Style Ribs": 3,
-        "Arm Roast": 2,
-        "Flat Iron": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 22,
-        "Minute Steak": 2,
-        "Fillet": 3,
-        "Kansas City Strip": 3
+        "price": [
+            430.99,
+            55.55
+        ],
+        "Flanken Style Ribs": [
+            3,
+            3.76
+        ],
+        "Arm Roast": [
+            2,
+            5.84
+        ],
+        "Flat Iron": [
+            2,
+            1.74
+        ],
+        "Chuck Roast": [
+            2,
+            4.02
+        ],
+        "Ground Beefalo": [
+            22,
+            29.66
+        ],
+        "Minute Steak": [
+            2,
+            2.35
+        ],
+        "Fillet": [
+            3,
+            3.12
+        ],
+        "Kansas City Strip": [
+            3,
+            5.06
+        ]
     },
     "cooler 4": {
-        "price": "409.19",
-        "Flanken Style Ribs": 2,
-        "Tri Tip": 1,
-        "Sirloin Tip": 1,
-        "Arm Roast": 2,
-        "Chuck Roast": 4,
-        "Ground Beefalo": 20,
-        "New York Strip": 2
+        "price": [
+            409.19,
+            52.86
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.76
+        ],
+        "Tri Tip": [
+            1,
+            2.04
+        ],
+        "Sirloin Tip": [
+            1,
+            3.76
+        ],
+        "Arm Roast": [
+            2,
+            5.52
+        ],
+        "Chuck Roast": [
+            4,
+            8.32
+        ],
+        "Ground Beefalo": [
+            20,
+            27.58
+        ],
+        "New York Strip": [
+            2,
+            2.88
+        ]
     },
     "cooler 5": {
-        "price": "438.34",
-        "Flanken Style Ribs": 3,
-        "Beefalo Skirt": 2,
-        "Ribeye Steak": 3,
-        "Chuck Roast": 3,
-        "Ground Beefalo": 22,
-        "Kansas City Strip": 2,
-        "Eye of Round Roast": 1
+        "price": [
+            438.34,
+            57.05
+        ],
+        "Flanken Style Ribs": [
+            3,
+            3.52
+        ],
+        "Beefalo Skirt": [
+            2,
+            3.1
+        ],
+        "Ribeye Steak": [
+            3,
+            6.62
+        ],
+        "Chuck Roast": [
+            3,
+            5.1
+        ],
+        "Ground Beefalo": [
+            22,
+            30.54
+        ],
+        "Kansas City Strip": [
+            2,
+            3.46
+        ],
+        "Eye of Round Roast": [
+            1,
+            4.71
+        ]
     },
     "cooler 6": {
-        "price": "419.51",
-        "Flanken Style Ribs": 2,
-        "Beefalo Skirt": 2,
-        "Sirloin Tip": 2,
-        "Arm Roast": 2,
-        "Flat Iron": 2,
-        "Flank Steak": 1,
-        "Ribeye Steak": 3,
-        "Ground Beefalo": 20,
-        "Minute Steak": 2
+        "price": [
+            419.51,
+            53.16
+        ],
+        "Flanken Style Ribs": [
+            2,
+            1.97
+        ],
+        "Beefalo Skirt": [
+            2,
+            2.66
+        ],
+        "Sirloin Tip": [
+            2,
+            3.3
+        ],
+        "Arm Roast": [
+            2,
+            5.27
+        ],
+        "Flat Iron": [
+            2,
+            1.57
+        ],
+        "Flank Steak": [
+            1,
+            1.86
+        ],
+        "Ribeye Steak": [
+            3,
+            5.78
+        ],
+        "Ground Beefalo": [
+            20,
+            27.36
+        ],
+        "Minute Steak": [
+            2,
+            3.39
+        ]
     },
     "cooler 7": {
-        "price": "402.58",
-        "Flanken Style Ribs": 2,
-        "Sirloin Tip": 2,
-        "Flat Iron": 2,
-        "Ground Beefalo": 21,
-        "Minute Steak": 3,
-        "New York Strip": 3,
-        "Picanha": 1
+        "price": [
+            402.58,
+            50.44
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.55
+        ],
+        "Sirloin Tip": [
+            2,
+            6.13
+        ],
+        "Flat Iron": [
+            2,
+            2.01
+        ],
+        "Ground Beefalo": [
+            21,
+            29.4
+        ],
+        "Minute Steak": [
+            3,
+            4.63
+        ],
+        "New York Strip": [
+            3,
+            3.63
+        ],
+        "Picanha": [
+            1,
+            2.09
+        ]
     },
     "cooler 8": {
-        "price": "329.55",
-        "Ground Beefalo": 36
+        "price": [
+            329.55,
+            50.7
+        ],
+        "Ground Beefalo": [
+            36,
+            50.7
+        ]
     },
     "cooler 9": {
-        "price": "339.43",
-        "Ground Beefalo": 37
+        "price": [
+            339.43,
+            52.22
+        ],
+        "Ground Beefalo": [
+            37,
+            52.22
+        ]
     },
     "cooler 10": {
-        "price": "60.28",
-        "Bone Marrow": 6,
-        "Suet": 2
+        "price": [
+            60.28,
+            10.87
+        ],
+        "Bone Marrow": [
+            6,
+            8.07
+        ],
+        "Suet": [
+            2,
+            2.8
+        ]
     },
     "cooler 11": {
-        "price": "465.91",
-        "Flanken Style Ribs": 3,
-        "Arm Roast": 2,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 21,
-        "New York Strip": 3,
-        "Fillet": 1,
-        "Kansas City Strip": 2,
-        "Eye of Round Roast": 1,
-        "Picanha": 1
+        "price": [
+            465.91,
+            58.29
+        ],
+        "Flanken Style Ribs": [
+            3,
+            3.7
+        ],
+        "Arm Roast": [
+            2,
+            5.95
+        ],
+        "Chuck Roast": [
+            1,
+            2.58
+        ],
+        "Ground Beefalo": [
+            21,
+            29.1
+        ],
+        "New York Strip": [
+            3,
+            4.77
+        ],
+        "Fillet": [
+            1,
+            1.48
+        ],
+        "Kansas City Strip": [
+            2,
+            3.71
+        ],
+        "Eye of Round Roast": [
+            1,
+            3.89
+        ],
+        "Picanha": [
+            1,
+            3.11
+        ]
     },
     "cooler 12": {
-        "price": "432.75",
-        "Flanken Style Ribs": 2,
-        "Beefalo Skirt": 1,
-        "Tri Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 1,
-        "Flank Steak": 1,
-        "Ground Beefalo": 19,
-        "Minute Steak": 3,
-        "Fillet": 2,
-        "Kansas City Strip": 2,
-        "Eye of Round Roast": 1,
-        "Picanha": 1
+        "price": [
+            432.75,
+            55.19
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.41
+        ],
+        "Beefalo Skirt": [
+            1,
+            2
+        ],
+        "Tri Tip": [
+            1,
+            2.19
+        ],
+        "Arm Roast": [
+            1,
+            2.38
+        ],
+        "Flat Iron": [
+            1,
+            0.91
+        ],
+        "Flank Steak": [
+            1,
+            1.76
+        ],
+        "Ground Beefalo": [
+            19,
+            27.05
+        ],
+        "Minute Steak": [
+            3,
+            4.89
+        ],
+        "Fillet": [
+            2,
+            1.53
+        ],
+        "Kansas City Strip": [
+            2,
+            3.36
+        ],
+        "Eye of Round Roast": [
+            1,
+            4.48
+        ],
+        "Picanha": [
+            1,
+            2.23
+        ]
     },
     "cooler 13": {
-        "price": "424.76",
-        "Beefalo Skirt": 1,
-        "Tri Tip": 1,
-        "Flat Iron": 2,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 3,
-        "Ground Beefalo": 18,
-        "Minute Steak": 3,
-        "Fillet": 2,
-        "Kansas City Strip": 2,
-        "Eye of Round Roast": 1
+        "price": [
+            424.76,
+            52.98
+        ],
+        "Beefalo Skirt": [
+            1,
+            0.99
+        ],
+        "Tri Tip": [
+            1,
+            2.09
+        ],
+        "Flat Iron": [
+            2,
+            1.52
+        ],
+        "Ribeye Steak": [
+            2,
+            3.95
+        ],
+        "Chuck Roast": [
+            3,
+            6.06
+        ],
+        "Ground Beefalo": [
+            18,
+            25.11
+        ],
+        "Minute Steak": [
+            3,
+            3.97
+        ],
+        "Fillet": [
+            2,
+            1.76
+        ],
+        "Kansas City Strip": [
+            2,
+            3.53
+        ],
+        "Eye of Round Roast": [
+            1,
+            4
+        ]
     },
     "cooler 14": {
-        "price": "452.17",
-        "Flanken Style Ribs": 1,
-        "Beefalo Skirt": 2,
-        "Sirloin Tip": 2,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 20,
-        "Minute Steak": 3,
-        "New York Strip": 1,
-        "Fillet": 3
+        "price": [
+            452.17,
+            53.96
+        ],
+        "Flanken Style Ribs": [
+            1,
+            1.13
+        ],
+        "Beefalo Skirt": [
+            2,
+            3
+        ],
+        "Sirloin Tip": [
+            2,
+            7.67
+        ],
+        "Ribeye Steak": [
+            2,
+            3.98
+        ],
+        "Chuck Roast": [
+            1,
+            2.24
+        ],
+        "Ground Beefalo": [
+            20,
+            27.46
+        ],
+        "Minute Steak": [
+            3,
+            4.12
+        ],
+        "New York Strip": [
+            1,
+            1.8
+        ],
+        "Fillet": [
+            3,
+            2.56
+        ]
     },
     "cooler 15": {
-        "price": "472.44",
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 1,
-        "Ribeye Steak": 4,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 19,
-        "Minute Steak": 2,
-        "Fillet": 3,
-        "Picanha": 1
+        "price": [
+            472.44,
+            54.58
+        ],
+        "Sirloin Tip": [
+            1,
+            3.69
+        ],
+        "Arm Roast": [
+            1,
+            2.67
+        ],
+        "Flat Iron": [
+            1,
+            0.92
+        ],
+        "Ribeye Steak": [
+            4,
+            7.45
+        ],
+        "Chuck Roast": [
+            2,
+            3.77
+        ],
+        "Ground Beefalo": [
+            19,
+            27.05
+        ],
+        "Minute Steak": [
+            2,
+            2.88
+        ],
+        "Fillet": [
+            3,
+            3.38
+        ],
+        "Picanha": [
+            1,
+            2.77
+        ]
     },
     "cooler 16": {
-        "price": "451.09",
-        "Flanken Style Ribs": 3,
-        "Tri Tip": 1,
-        "Sirloin Tip": 1,
-        "Flank Steak": 1,
-        "Ribeye Steak": 1,
-        "Ground Beefalo": 17,
-        "Minute Steak": 2,
-        "New York Strip": 3,
-        "Fillet": 3,
-        "Kansas City Strip": 3
+        "price": [
+            451.09,
+            52.09
+        ],
+        "Flanken Style Ribs": [
+            3,
+            3.07
+        ],
+        "Tri Tip": [
+            1,
+            1.96
+        ],
+        "Sirloin Tip": [
+            1,
+            4
+        ],
+        "Flank Steak": [
+            1,
+            1.72
+        ],
+        "Ribeye Steak": [
+            1,
+            1.97
+        ],
+        "Ground Beefalo": [
+            17,
+            23.7
+        ],
+        "Minute Steak": [
+            2,
+            3.75
+        ],
+        "New York Strip": [
+            3,
+            4.54
+        ],
+        "Fillet": [
+            3,
+            2.37
+        ],
+        "Kansas City Strip": [
+            3,
+            5.01
+        ]
     },
     "cooler 17": {
-        "price": "441.56",
-        "Flanken Style Ribs": 2,
-        "Flat Iron": 3,
-        "Flank Steak": 1,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 19,
-        "Minute Steak": 2,
-        "New York Strip": 4,
-        "Fillet": 1,
-        "Kansas City Strip": 5
+        "price": [
+            441.56,
+            54.44
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.1
+        ],
+        "Flat Iron": [
+            3,
+            1.78
+        ],
+        "Flank Steak": [
+            1,
+            1.69
+        ],
+        "Chuck Roast": [
+            2,
+            3.68
+        ],
+        "Ground Beefalo": [
+            19,
+            26.61
+        ],
+        "Minute Steak": [
+            2,
+            2.44
+        ],
+        "New York Strip": [
+            4,
+            5.86
+        ],
+        "Fillet": [
+            1,
+            1.37
+        ],
+        "Kansas City Strip": [
+            5,
+            8.91
+        ]
     },
     "cooler 18": {
-        "price": "151.78",
-        "Ground Beefalo": 11,
-        "New York Strip": 4
+        "price": [
+            151.78,
+            20.2
+        ],
+        "Ground Beefalo": [
+            11,
+            15.65
+        ],
+        "New York Strip": [
+            4,
+            4.55
+        ]
     },
     "cooler 19": {
-        "price": "419.06",
-        "Ground Beefalo": 45
+        "price": [
+            419.06,
+            64.47
+        ],
+        "Ground Beefalo": [
+            45,
+            64.47
+        ]
     },
     "cooler 20": {
-        "price": "60.10",
-        "Beefalo Heart": 1,
-        "Beefalo Tongue": 1,
-        "Beefalo Fox Tail": 1
+        "price": [
+            60.1,
+            6.01
+        ],
+        "Beefalo Heart": [
+            1,
+            1.69
+        ],
+        "Beefalo Tongue": [
+            1,
+            1.79
+        ],
+        "Beefalo Fox Tail": [
+            1,
+            2.53
+        ]
     },
     "cooler 21": {
-        "price": "102.57",
-        "Ground Beefalo": 10
+        "price": [
+            102.57,
+            15.78
+        ],
+        "Ground Beefalo": [
+            10,
+            15.78
+        ]
     },
     "cooler 22": {
-        "price": "463.05",
-        "Flanken Style Ribs": 3,
-        "Sirloin Tip": 1,
-        "Flat Iron": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "Minute Steak": 3,
-        "New York Strip": 3,
-        "Fillet": 2,
-        "Kansas City Strip": 2,
-        "Picanha": 1
+        "price": [
+            463.05,
+            55.67
+        ],
+        "Flanken Style Ribs": [
+            3,
+            2.6
+        ],
+        "Sirloin Tip": [
+            1,
+            3.56
+        ],
+        "Flat Iron": [
+            2,
+            2.23
+        ],
+        "Chuck Roast": [
+            2,
+            3.89
+        ],
+        "Ground Beefalo": [
+            18,
+            26.09
+        ],
+        "Minute Steak": [
+            3,
+            4.42
+        ],
+        "New York Strip": [
+            3,
+            5.22
+        ],
+        "Fillet": [
+            2,
+            1.83
+        ],
+        "Kansas City Strip": [
+            2,
+            3.65
+        ],
+        "Picanha": [
+            1,
+            2.18
+        ]
     },
     "cooler 23": {
-        "price": "369.46",
-        "Flanken Style Ribs": 2,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 16,
-        "New York Strip": 2,
-        "Fillet": 1,
-        "Kansas City Strip": 2
+        "price": [
+            369.46,
+            45.47
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.05
+        ],
+        "Sirloin Tip": [
+            1,
+            3.04
+        ],
+        "Arm Roast": [
+            1,
+            2.33
+        ],
+        "Flat Iron": [
+            2,
+            1.8
+        ],
+        "Chuck Roast": [
+            2,
+            4.51
+        ],
+        "Ground Beefalo": [
+            16,
+            23.22
+        ],
+        "New York Strip": [
+            2,
+            3.74
+        ],
+        "Fillet": [
+            1,
+            1.25
+        ],
+        "Kansas City Strip": [
+            2,
+            3.53
+        ]
     },
     "cooler 24": {
-        "price": "394.06",
-        "Flanken Style Ribs": 3,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 2,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "Fillet": 2
+        "price": [
+            394.06,
+            49.44
+        ],
+        "Flanken Style Ribs": [
+            3,
+            3.07
+        ],
+        "Sirloin Tip": [
+            1,
+            3.2
+        ],
+        "Arm Roast": [
+            1,
+            3.28
+        ],
+        "Flat Iron": [
+            2,
+            1.69
+        ],
+        "Ribeye Steak": [
+            2,
+            4.04
+        ],
+        "Chuck Roast": [
+            2,
+            3.97
+        ],
+        "Ground Beefalo": [
+            18,
+            25.96
+        ],
+        "Minute Steak": [
+            2,
+            2.81
+        ],
+        "Fillet": [
+            2,
+            1.42
+        ]
     },
     "cooler 25": {
-        "price": "382.64",
-        "Beefalo Skirt": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 2,
-        "Flank Steak": 1,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 17,
-        "Minute Steak": 2,
-        "New York Strip": 1,
-        "Fillet": 1,
-        "Eye of Round Roast": 1
+        "price": [
+            382.64,
+            48.9
+        ],
+        "Beefalo Skirt": [
+            1,
+            0.86
+        ],
+        "Arm Roast": [
+            1,
+            2.65
+        ],
+        "Flat Iron": [
+            2,
+            1.81
+        ],
+        "Flank Steak": [
+            1,
+            1.43
+        ],
+        "Ribeye Steak": [
+            2,
+            4.11
+        ],
+        "Chuck Roast": [
+            2,
+            4.92
+        ],
+        "Ground Beefalo": [
+            17,
+            24.11
+        ],
+        "Minute Steak": [
+            2,
+            2.97
+        ],
+        "New York Strip": [
+            1,
+            0.8
+        ],
+        "Fillet": [
+            1,
+            1.43
+        ],
+        "Eye of Round Roast": [
+            1,
+            3.81
+        ]
     },
     "cooler 26": {
-        "price": "398.70",
-        "Sirloin Tip": 1,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 20,
-        "Minute Steak": 4,
-        "Eye of Round Roast": 1,
-        "Picanha": 1
+        "price": [
+            398.7,
+            51.6
+        ],
+        "Sirloin Tip": [
+            1,
+            3.01
+        ],
+        "Ribeye Steak": [
+            2,
+            4.26
+        ],
+        "Chuck Roast": [
+            2,
+            4.9
+        ],
+        "Ground Beefalo": [
+            20,
+            28.31
+        ],
+        "Minute Steak": [
+            4,
+            5.98
+        ],
+        "Eye of Round Roast": [
+            1,
+            3.21
+        ],
+        "Picanha": [
+            1,
+            1.93
+        ]
     },
     "cooler 27": {
-        "price": "336.80",
-        "Flanken Style Ribs": 1,
-        "Beefalo Skirt": 1,
-        "Tri Tip": 1,
-        "Sirloin Tip": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 17,
-        "New York Strip": 2,
-        "Fillet": 2
+        "price": [
+            336.8,
+            41.12
+        ],
+        "Flanken Style Ribs": [
+            1,
+            0.99
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.66
+        ],
+        "Tri Tip": [
+            1,
+            1.68
+        ],
+        "Sirloin Tip": [
+            1,
+            2.79
+        ],
+        "Ribeye Steak": [
+            1,
+            2.16
+        ],
+        "Chuck Roast": [
+            1,
+            2.38
+        ],
+        "Ground Beefalo": [
+            17,
+            24.9
+        ],
+        "New York Strip": [
+            2,
+            2.6
+        ],
+        "Fillet": [
+            2,
+            1.96
+        ]
     },
     "cooler 28": {
-        "price": "405.08",
-        "Beefalo Skirt": 1,
-        "Tri Tip": 1,
-        "Sirloin Tip": 2,
-        "Arm Roast": 1,
-        "Flank Steak": 1,
-        "Ribeye Steak": 1,
-        "Ground Beefalo": 18,
-        "New York Strip": 5,
-        "Fillet": 3
+        "price": [
+            405.08,
+            47.06
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.66
+        ],
+        "Tri Tip": [
+            1,
+            1.69
+        ],
+        "Sirloin Tip": [
+            2,
+            4.81
+        ],
+        "Arm Roast": [
+            1,
+            2.52
+        ],
+        "Flank Steak": [
+            1,
+            0.63
+        ],
+        "Ribeye Steak": [
+            1,
+            0.99
+        ],
+        "Ground Beefalo": [
+            18,
+            26.01
+        ],
+        "New York Strip": [
+            5,
+            5.64
+        ],
+        "Fillet": [
+            3,
+            3.11
+        ]
     },
     "cooler 29": {
-        "price": "324.61",
-        "Ground Beefalo": 35
+        "price": [
+            324.61,
+            49.94
+        ],
+        "Ground Beefalo": [
+            35,
+            49.94
+        ]
     },
     "cooler 30": {
-        "price": "102.00",
-        "Beefalo Heart": 1,
-        "Beefalo Liver": 4,
-        "Beefalo Fox Tail": 1
+        "price": [
+            102,
+            10.2
+        ],
+        "Beefalo Heart": [
+            1,
+            2.57
+        ],
+        "Beefalo Liver": [
+            4,
+            5.39
+        ],
+        "Beefalo Fox Tail": [
+            1,
+            2.24
+        ]
     },
     "cooler 31": {
-        "price": "376.06",
-        "Flanken Style Ribs": 2,
-        "Arm Roast": 1,
-        "Flat Iron": 2,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 17,
-        "New York Strip": 2,
-        "Fillet": 3,
-        "Kansas City Strip": 2,
-        "Eye of Round Roast": 1,
-        "Round Steak": 2
+        "price": [
+            376.06,
+            47.04
+        ],
+        "Flanken Style Ribs": [
+            2,
+            1.65
+        ],
+        "Arm Roast": [
+            1,
+            2.28
+        ],
+        "Flat Iron": [
+            2,
+            1.74
+        ],
+        "Chuck Roast": [
+            1,
+            2.63
+        ],
+        "Ground Beefalo": [
+            17,
+            22.96
+        ],
+        "New York Strip": [
+            2,
+            2.76
+        ],
+        "Fillet": [
+            3,
+            2.73
+        ],
+        "Kansas City Strip": [
+            2,
+            3.47
+        ],
+        "Eye of Round Roast": [
+            1,
+            4.51
+        ],
+        "Round Steak": [
+            2,
+            2.31
+        ]
     },
     "cooler 32": {
-        "price": "395.74",
-        "Flanken Style Ribs": 2,
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Flat Iron": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 17,
-        "New York Strip": 2,
-        "Fillet": 2,
-        "Kansas City Strip": 2,
-        "Picanha": 1
+        "price": [
+            395.74,
+            47.7
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.27
+        ],
+        "Beefalo Skirt": [
+            1,
+            0.89
+        ],
+        "Sirloin Tip": [
+            1,
+            3.01
+        ],
+        "Flat Iron": [
+            2,
+            1.69
+        ],
+        "Chuck Roast": [
+            2,
+            4.5
+        ],
+        "Ground Beefalo": [
+            17,
+            24.79
+        ],
+        "New York Strip": [
+            2,
+            2.97
+        ],
+        "Fillet": [
+            2,
+            2.31
+        ],
+        "Kansas City Strip": [
+            2,
+            3.56
+        ],
+        "Picanha": [
+            1,
+            1.71
+        ]
     },
     "cooler 33": {
-        "price": "440.90",
-        "Flanken Style Ribs": 2,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 19,
-        "New York Strip": 2,
-        "Fillet": 3,
-        "Kansas City Strip": 3,
-        "Eye of Round Roast": 1,
-        "Picanha": 1
+        "price": [
+            440.9,
+            53.44
+        ],
+        "Flanken Style Ribs": [
+            2,
+            1.92
+        ],
+        "Sirloin Tip": [
+            1,
+            2.95
+        ],
+        "Arm Roast": [
+            1,
+            2.45
+        ],
+        "Chuck Roast": [
+            1,
+            2.08
+        ],
+        "Ground Beefalo": [
+            19,
+            27.54
+        ],
+        "New York Strip": [
+            2,
+            2.94
+        ],
+        "Fillet": [
+            3,
+            2.39
+        ],
+        "Kansas City Strip": [
+            3,
+            5.25
+        ],
+        "Eye of Round Roast": [
+            1,
+            3.95
+        ],
+        "Picanha": [
+            1,
+            1.97
+        ]
     },
     "cooler 34": {
-        "price": "435.60",
-        "Flanken Style Ribs": 2,
-        "Sirloin Tip": 1,
-        "Flat Iron": 2,
-        "Ribeye Steak": 3,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "New York Strip": 3,
-        "Fillet": 2
+        "price": [
+            435.6,
+            50.63
+        ],
+        "Flanken Style Ribs": [
+            2,
+            1.98
+        ],
+        "Sirloin Tip": [
+            1,
+            3.6
+        ],
+        "Flat Iron": [
+            2,
+            1.86
+        ],
+        "Ribeye Steak": [
+            3,
+            6.79
+        ],
+        "Chuck Roast": [
+            2,
+            4.48
+        ],
+        "Ground Beefalo": [
+            18,
+            25.29
+        ],
+        "New York Strip": [
+            3,
+            5.24
+        ],
+        "Fillet": [
+            2,
+            1.39
+        ]
     },
     "cooler 35": {
-        "price": "408.96",
-        "Flanken Style Ribs": 2,
-        "Sirloin Tip": 1,
-        "Ribeye Steak": 3,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 20,
-        "Kansas City Strip": 2,
-        "Picanha": 1
+        "price": [
+            408.96,
+            49.72
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.43
+        ],
+        "Sirloin Tip": [
+            1,
+            3.22
+        ],
+        "Ribeye Steak": [
+            3,
+            6.97
+        ],
+        "Chuck Roast": [
+            2,
+            4.29
+        ],
+        "Ground Beefalo": [
+            20,
+            27.9
+        ],
+        "Kansas City Strip": [
+            2,
+            2.6
+        ],
+        "Picanha": [
+            1,
+            2.31
+        ]
     },
     "cooler 36": {
-        "price": "394.48",
-        "Flanken Style Ribs": 2,
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 2,
-        "Flank Steak": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "Fillet": 1,
-        "Round Steak": 2
+        "price": [
+            394.48,
+            51.53
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.35
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.78
+        ],
+        "Sirloin Tip": [
+            1,
+            1.77
+        ],
+        "Arm Roast": [
+            1,
+            3.02
+        ],
+        "Flat Iron": [
+            2,
+            2.18
+        ],
+        "Flank Steak": [
+            1,
+            1.46
+        ],
+        "Ribeye Steak": [
+            1,
+            2.23
+        ],
+        "Chuck Roast": [
+            1,
+            1.94
+        ],
+        "Ground Beefalo": [
+            18,
+            26.15
+        ],
+        "Minute Steak": [
+            2,
+            4.27
+        ],
+        "Fillet": [
+            1,
+            1.38
+        ],
+        "Round Steak": [
+            2,
+            3
+        ]
     },
     "cooler 37": {
-        "price": "371.84",
-        "Flanken Style Ribs": 1,
-        "Beefalo Skirt": 1,
-        "Tri Tip": 1,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flank Steak": 1,
-        "Ribeye Steak": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "New York Strip": 1,
-        "Round Steak": 3
+        "price": [
+            371.84,
+            48.08
+        ],
+        "Flanken Style Ribs": [
+            1,
+            0.78
+        ],
+        "Beefalo Skirt": [
+            1,
+            0.74
+        ],
+        "Tri Tip": [
+            1,
+            1.77
+        ],
+        "Sirloin Tip": [
+            1,
+            3.12
+        ],
+        "Arm Roast": [
+            1,
+            2.76
+        ],
+        "Flank Steak": [
+            1,
+            1.44
+        ],
+        "Ribeye Steak": [
+            1,
+            2.23
+        ],
+        "Ground Beefalo": [
+            18,
+            25.4
+        ],
+        "Minute Steak": [
+            2,
+            3.88
+        ],
+        "New York Strip": [
+            1,
+            1.49
+        ],
+        "Round Steak": [
+            3,
+            4.47
+        ]
     },
     "cooler 38": {
-        "price": "339.65",
-        "Beefalo Skirt": 1,
-        "Tri Tip": 1,
-        "Arm Roast": 2,
-        "Ground Beefalo": 29,
-        "Minute Steak": 2
+        "price": [
+            339.65,
+            49.26
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.72
+        ],
+        "Tri Tip": [
+            1,
+            1.76
+        ],
+        "Arm Roast": [
+            2,
+            5.12
+        ],
+        "Ground Beefalo": [
+            29,
+            38.17
+        ],
+        "Minute Steak": [
+            2,
+            2.49
+        ]
     },
     "cooler 39": {
-        "price": "267.61",
-        "Ground Beefalo": 29
+        "price": [
+            267.61,
+            41.17
+        ],
+        "Ground Beefalo": [
+            29,
+            41.17
+        ]
     },
     "cooler 40": {
-        "price": "93.34",
-        "Ground Beefalo": 11
+        "price": [
+            93.34,
+            14.36
+        ],
+        "Ground Beefalo": [
+            11,
+            14.36
+        ]
     },
     "cooler 41": {
-        "price": "119.90",
-        "Beefalo Heart": 1,
-        "Beefalo Liver": 4,
-        "Beefalo Tongue": 1,
-        "Beefalo Fox Tail": 1
+        "price": [
+            119.9,
+            11.99
+        ],
+        "Beefalo Heart": [
+            1,
+            1.93
+        ],
+        "Beefalo Liver": [
+            4,
+            4.91
+        ],
+        "Beefalo Tongue": [
+            1,
+            2.98
+        ],
+        "Beefalo Fox Tail": [
+            1,
+            2.17
+        ]
     },
     "cooler 42": {
-        "price": "478.92",
-        "Brisket": 4
+        "price": [
+            478.92,
+            39.91
+        ],
+        "Brisket": [
+            4,
+            39.91
+        ]
     },
     "cooler 43": {
-        "price": "441.36",
-        "Brisket": 4
+        "price": [
+            441.36,
+            36.78
+        ],
+        "Brisket": [
+            4,
+            36.78
+        ]
     },
     "cooler 44": {
-        "price": "370.29",
-        "Flanken Style Ribs": 2,
-        "Tri Tip": 1,
-        "Flat Iron": 2,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "Fillet": 2,
-        "Eye of Round Roast": 1
+        "price": [
+            370.29,
+            46.48
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.68
+        ],
+        "Tri Tip": [
+            1,
+            2.05
+        ],
+        "Flat Iron": [
+            2,
+            1.14
+        ],
+        "Ribeye Steak": [
+            2,
+            4.11
+        ],
+        "Chuck Roast": [
+            2,
+            4.76
+        ],
+        "Ground Beefalo": [
+            18,
+            25.56
+        ],
+        "Fillet": [
+            2,
+            1.75
+        ],
+        "Eye of Round Roast": [
+            1,
+            4.43
+        ]
     },
     "cooler 45": {
-        "price": "390.74",
-        "Flanken Style Ribs": 2,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "New York Strip": 2,
-        "Fillet": 2,
-        "Picanha": 1
+        "price": [
+            390.74,
+            48.57
+        ],
+        "Flanken Style Ribs": [
+            2,
+            3.31
+        ],
+        "Sirloin Tip": [
+            1,
+            3.38
+        ],
+        "Arm Roast": [
+            1,
+            2.41
+        ],
+        "Flat Iron": [
+            1,
+            1.09
+        ],
+        "Chuck Roast": [
+            1,
+            2.3
+        ],
+        "Ground Beefalo": [
+            18,
+            25.98
+        ],
+        "Minute Steak": [
+            2,
+            3.3
+        ],
+        "New York Strip": [
+            2,
+            2.49
+        ],
+        "Fillet": [
+            2,
+            1.73
+        ],
+        "Picanha": [
+            1,
+            2.58
+        ]
     },
     "cooler 46": {
-        "price": "381.54",
-        "Flanken Style Ribs": 2,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Fillet": 2,
-        "Kansas City Strip": 2
+        "price": [
+            381.54,
+            46.58
+        ],
+        "Flanken Style Ribs": [
+            2,
+            3.13
+        ],
+        "Sirloin Tip": [
+            1,
+            3.93
+        ],
+        "Arm Roast": [
+            1,
+            2.63
+        ],
+        "Ribeye Steak": [
+            2,
+            4.07
+        ],
+        "Chuck Roast": [
+            1,
+            2.22
+        ],
+        "Ground Beefalo": [
+            18,
+            26.17
+        ],
+        "Fillet": [
+            2,
+            1.68
+        ],
+        "Kansas City Strip": [
+            2,
+            2.75
+        ]
     },
     "cooler 47": {
-        "price": "364.97",
-        "Flanken Style Ribs": 2,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flank Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 17,
-        "Minute Steak": 2,
-        "Kansas City Strip": 2,
-        "Picanha": 1
+        "price": [
+            364.97,
+            46.98
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.71
+        ],
+        "Sirloin Tip": [
+            1,
+            3.64
+        ],
+        "Arm Roast": [
+            1,
+            2.61
+        ],
+        "Flank Steak": [
+            1,
+            1.56
+        ],
+        "Chuck Roast": [
+            1,
+            2.56
+        ],
+        "Ground Beefalo": [
+            17,
+            25.28
+        ],
+        "Minute Steak": [
+            2,
+            2.93
+        ],
+        "Kansas City Strip": [
+            2,
+            3.81
+        ],
+        "Picanha": [
+            1,
+            1.88
+        ]
     },
     "cooler 48": {
-        "price": "349.70",
-        "Flat Iron": 2,
-        "Flank Steak": 1,
-        "Ribeye Steak": 2,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "Kansas City Strip": 2,
-        "Eye of Round Roast": 1
+        "price": [
+            349.7,
+            45.67
+        ],
+        "Flat Iron": [
+            2,
+            1.64
+        ],
+        "Flank Steak": [
+            1,
+            1.68
+        ],
+        "Ribeye Steak": [
+            2,
+            4.05
+        ],
+        "Ground Beefalo": [
+            18,
+            26.44
+        ],
+        "Minute Steak": [
+            2,
+            3.98
+        ],
+        "Kansas City Strip": [
+            2,
+            3.41
+        ],
+        "Eye of Round Roast": [
+            1,
+            4.47
+        ]
     },
     "cooler 49": {
-        "price": "351.44",
-        "Tri Tip": 1,
-        "Sirloin Tip": 1,
-        "Flat Iron": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "New York Strip": 2,
-        "Fillet": 2,
-        "Kansas City Strip": 1
+        "price": [
+            351.44,
+            42.18
+        ],
+        "Tri Tip": [
+            1,
+            1.97
+        ],
+        "Sirloin Tip": [
+            1,
+            3
+        ],
+        "Flat Iron": [
+            1,
+            0.95
+        ],
+        "Ribeye Steak": [
+            1,
+            2.03
+        ],
+        "Chuck Roast": [
+            1,
+            1.87
+        ],
+        "Ground Beefalo": [
+            18,
+            25.98
+        ],
+        "New York Strip": [
+            2,
+            3.15
+        ],
+        "Fillet": [
+            2,
+            1.62
+        ],
+        "Kansas City Strip": [
+            1,
+            1.61
+        ]
     },
     "cooler 50": {
-        "price": "297.47",
-        "Flanken Style Ribs": 2,
-        "Beefalo Skirt": 1,
-        "Arm Roast": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 1,
-        "New York Strip": 2
+        "price": [
+            297.47,
+            41.61
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.82
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.75
+        ],
+        "Arm Roast": [
+            1,
+            3.32
+        ],
+        "Chuck Roast": [
+            1,
+            2.21
+        ],
+        "Ground Beefalo": [
+            18,
+            26.41
+        ],
+        "Minute Steak": [
+            1,
+            2.06
+        ],
+        "New York Strip": [
+            2,
+            3.04
+        ]
     },
     "cooler 51": {
-        "price": "310.13",
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 17,
-        "Minute Steak": 2,
-        "New York Strip": 2,
-        "Fillet": 2
+        "price": [
+            310.13,
+            39.91
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.79
+        ],
+        "Sirloin Tip": [
+            1,
+            1.71
+        ],
+        "Ribeye Steak": [
+            1,
+            1.94
+        ],
+        "Chuck Roast": [
+            1,
+            2.04
+        ],
+        "Ground Beefalo": [
+            17,
+            24.86
+        ],
+        "Minute Steak": [
+            2,
+            3.02
+        ],
+        "New York Strip": [
+            2,
+            3.12
+        ],
+        "Fillet": [
+            2,
+            1.43
+        ]
     },
     "cooler 52": {
-        "price": "309.68",
-        "Flanken Style Ribs": 1,
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Flat Iron": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 1,
-        "New York Strip": 1,
-        "Kansas City Strip": 1
+        "price": [
+            309.68,
+            41.05
+        ],
+        "Flanken Style Ribs": [
+            1,
+            2.06
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.14
+        ],
+        "Sirloin Tip": [
+            1,
+            2.48
+        ],
+        "Flat Iron": [
+            1,
+            0.86
+        ],
+        "Ribeye Steak": [
+            1,
+            1.06
+        ],
+        "Chuck Roast": [
+            1,
+            2.44
+        ],
+        "Ground Beefalo": [
+            18,
+            25.94
+        ],
+        "Minute Steak": [
+            1,
+            1.68
+        ],
+        "New York Strip": [
+            1,
+            1.57
+        ],
+        "Kansas City Strip": [
+            1,
+            1.82
+        ]
     },
     "cooler 53": {
-        "price": "327.14",
-        "Flat Iron": 1,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "New York Strip": 2,
-        "Fillet": 2,
-        "Kansas City Strip": 2
+        "price": [
+            327.14,
+            42.74
+        ],
+        "Flat Iron": [
+            1,
+            0.87
+        ],
+        "Chuck Roast": [
+            2,
+            4.36
+        ],
+        "Ground Beefalo": [
+            18,
+            25.66
+        ],
+        "Minute Steak": [
+            2,
+            3.63
+        ],
+        "New York Strip": [
+            2,
+            2.74
+        ],
+        "Fillet": [
+            2,
+            1.72
+        ],
+        "Kansas City Strip": [
+            2,
+            3.76
+        ]
     },
     "cooler 54": {
-        "price": "290.88",
-        "Brisket": 2
+        "price": [
+            290.88,
+            24.24
+        ],
+        "Brisket": [
+            2,
+            24.24
+        ]
     },
     "cooler 55": {
-        "price": "332.08",
-        "Ground Beefalo": 35
+        "price": [
+            332.08,
+            51.09
+        ],
+        "Ground Beefalo": [
+            35,
+            51.09
+        ]
     },
     "cooler 56": {
-        "price": "341.63",
-        "Arm Roast": 1,
-        "Flank Steak": 1,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "New York Strip": 2,
-        "Eye of Round Roast": 1,
-        "Picanha": 1
+        "price": [
+            341.63,
+            43.72
+        ],
+        "Arm Roast": [
+            1,
+            2.23
+        ],
+        "Flank Steak": [
+            1,
+            0.79
+        ],
+        "Ribeye Steak": [
+            2,
+            4.14
+        ],
+        "Chuck Roast": [
+            1,
+            2.18
+        ],
+        "Ground Beefalo": [
+            18,
+            26.02
+        ],
+        "New York Strip": [
+            2,
+            2.56
+        ],
+        "Eye of Round Roast": [
+            1,
+            4.06
+        ],
+        "Picanha": [
+            1,
+            1.74
+        ]
     },
     "cooler 57": {
-        "price": "340.44",
-        "Flanken Style Ribs": 2,
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 2,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Fillet": 2
+        "price": [
+            340.44,
+            43.1
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.53
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.63
+        ],
+        "Sirloin Tip": [
+            1,
+            2.62
+        ],
+        "Arm Roast": [
+            1,
+            2.52
+        ],
+        "Flat Iron": [
+            2,
+            1.25
+        ],
+        "Ribeye Steak": [
+            2,
+            2.95
+        ],
+        "Chuck Roast": [
+            1,
+            2.18
+        ],
+        "Ground Beefalo": [
+            18,
+            25.69
+        ],
+        "Fillet": [
+            2,
+            1.73
+        ]
     },
     "cooler 58": {
-        "price": "378.98",
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 1,
-        "Flank Steak": 1,
-        "Ribeye Steak": 2,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "Fillet": 2,
-        "Kansas City Strip": 2
+        "price": [
+            378.98,
+            46.26
+        ],
+        "Sirloin Tip": [
+            1,
+            3.32
+        ],
+        "Arm Roast": [
+            1,
+            2.45
+        ],
+        "Flat Iron": [
+            1,
+            0.69
+        ],
+        "Flank Steak": [
+            1,
+            1.09
+        ],
+        "Ribeye Steak": [
+            2,
+            3.94
+        ],
+        "Chuck Roast": [
+            2,
+            4.23
+        ],
+        "Ground Beefalo": [
+            18,
+            25.58
+        ],
+        "Fillet": [
+            2,
+            1.59
+        ],
+        "Kansas City Strip": [
+            2,
+            3.37
+        ]
     },
     "cooler 59": {
-        "price": "360.33",
-        "Sirloin Tip": 1,
-        "Flat Iron": 1,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "New York Strip": 2,
-        "Fillet": 2,
-        "Kansas City Strip": 2,
-        "Eye of Round Roast": 1
+        "price": [
+            360.33,
+            45.13
+        ],
+        "Sirloin Tip": [
+            1,
+            3.34
+        ],
+        "Flat Iron": [
+            1,
+            1.03
+        ],
+        "Chuck Roast": [
+            2,
+            3.6
+        ],
+        "Ground Beefalo": [
+            18,
+            26.12
+        ],
+        "New York Strip": [
+            2,
+            2.78
+        ],
+        "Fillet": [
+            2,
+            1.61
+        ],
+        "Kansas City Strip": [
+            2,
+            2.62
+        ],
+        "Eye of Round Roast": [
+            1,
+            4.03
+        ]
     },
     "cooler 60": {
-        "price": "356.16",
-        "Tri Tip": 1,
-        "Sirloin Tip": 1,
-        "Flat Iron": 2,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "New York Strip": 2,
-        "Fillet": 2,
-        "Kansas City Strip": 2
+        "price": [
+            356.16,
+            44.2
+        ],
+        "Tri Tip": [
+            1,
+            1.62
+        ],
+        "Sirloin Tip": [
+            1,
+            3.14
+        ],
+        "Flat Iron": [
+            2,
+            1.26
+        ],
+        "Chuck Roast": [
+            1,
+            1.81
+        ],
+        "Ground Beefalo": [
+            18,
+            26.07
+        ],
+        "Minute Steak": [
+            2,
+            3.37
+        ],
+        "New York Strip": [
+            2,
+            2.97
+        ],
+        "Fillet": [
+            2,
+            1.51
+        ],
+        "Kansas City Strip": [
+            2,
+            2.45
+        ]
     },
     "cooler 61": {
-        "price": "339.14",
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "New York Strip": 2,
-        "Fillet": 2
+        "price": [
+            339.14,
+            43.93
+        ],
+        "Beefalo Skirt": [
+            1,
+            0.94
+        ],
+        "Sirloin Tip": [
+            1,
+            2.56
+        ],
+        "Arm Roast": [
+            1,
+            2.42
+        ],
+        "Ribeye Steak": [
+            1,
+            1.83
+        ],
+        "Chuck Roast": [
+            2,
+            3.59
+        ],
+        "Ground Beefalo": [
+            18,
+            25.7
+        ],
+        "Minute Steak": [
+            2,
+            3.64
+        ],
+        "New York Strip": [
+            2,
+            1.92
+        ],
+        "Fillet": [
+            2,
+            1.33
+        ]
     },
     "cooler 62": {
-        "price": "313.53",
-        "Beefalo Skirt": 1,
-        "Tri Tip": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "New York Strip": 1,
-        "Kansas City Strip": 2
+        "price": [
+            313.53,
+            41.38
+        ],
+        "Beefalo Skirt": [
+            1,
+            0.87
+        ],
+        "Tri Tip": [
+            1,
+            2.13
+        ],
+        "Ribeye Steak": [
+            1,
+            1.92
+        ],
+        "Chuck Roast": [
+            1,
+            2.23
+        ],
+        "Ground Beefalo": [
+            18,
+            25.69
+        ],
+        "Minute Steak": [
+            2,
+            3.82
+        ],
+        "New York Strip": [
+            1,
+            1.19
+        ],
+        "Kansas City Strip": [
+            2,
+            3.53
+        ]
     },
     "cooler 63": {
-        "price": "299.84",
-        "Flanken Style Ribs": 5,
-        "Beefalo Skirt": 1,
-        "Flat Iron": 2,
-        "Ribeye Steak": 1,
-        "Ground Beefalo": 14,
-        "Minute Steak": 3,
-        "New York Strip": 1,
-        "Kansas City Strip": 1
+        "price": [
+            299.84,
+            39.73
+        ],
+        "Flanken Style Ribs": [
+            5,
+            6.58
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.74
+        ],
+        "Flat Iron": [
+            2,
+            1.74
+        ],
+        "Ribeye Steak": [
+            1,
+            1.98
+        ],
+        "Ground Beefalo": [
+            14,
+            19.38
+        ],
+        "Minute Steak": [
+            3,
+            5.43
+        ],
+        "New York Strip": [
+            1,
+            1.08
+        ],
+        "Kansas City Strip": [
+            1,
+            1.8
+        ]
     },
     "cooler 64": {
-        "price": "243.60",
-        "Brisket": 2
+        "price": [
+            243.6,
+            20.3
+        ],
+        "Brisket": [
+            2,
+            20.3
+        ]
     },
     "cooler 65": {
-        "price": "235.20",
-        "Flanken Style Ribs": 5,
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 1,
-        "Minute Steak": 2,
-        "New York Strip": 1,
-        "Fillet": 2,
-        "Kansas City Strip": 1,
-        "Picanha": 1,
-        "Bone Marrow": 8
+        "price": [
+            235.2,
+            32.12
+        ],
+        "Flanken Style Ribs": [
+            5,
+            5.99
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.09
+        ],
+        "Sirloin Tip": [
+            1,
+            1.04
+        ],
+        "Chuck Roast": [
+            1,
+            2.04
+        ],
+        "Ground Beefalo": [
+            1,
+            1.7
+        ],
+        "Minute Steak": [
+            2,
+            3.71
+        ],
+        "New York Strip": [
+            1,
+            1.12
+        ],
+        "Fillet": [
+            2,
+            1.15
+        ],
+        "Kansas City Strip": [
+            1,
+            1.52
+        ],
+        "Picanha": [
+            1,
+            2.38
+        ],
+        "Bone Marrow": [
+            8,
+            10.38
+        ]
     },
     "cooler 66": {
-        "price": "316.32",
-        "Flanken Style Ribs": 2,
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "New York Strip": 1,
-        "Fillet": 2,
-        "Kansas City Strip": 2
+        "price": [
+            316.32,
+            40.57
+        ],
+        "Flanken Style Ribs": [
+            2,
+            3
+        ],
+        "Beefalo Skirt": [
+            1,
+            0.76
+        ],
+        "Sirloin Tip": [
+            1,
+            1.62
+        ],
+        "Arm Roast": [
+            1,
+            2.62
+        ],
+        "Ribeye Steak": [
+            1,
+            1.94
+        ],
+        "Chuck Roast": [
+            1,
+            1.71
+        ],
+        "Ground Beefalo": [
+            18,
+            24.46
+        ],
+        "New York Strip": [
+            1,
+            1.26
+        ],
+        "Fillet": [
+            2,
+            1.13
+        ],
+        "Kansas City Strip": [
+            2,
+            2.07
+        ]
     },
     "cooler 67": {
-        "price": "333.13",
-        "Arm Roast": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "Minute Steak": 1,
-        "New York Strip": 1,
-        "Fillet": 2,
-        "Kansas City Strip": 2,
-        "Picanha": 1
+        "price": [
+            333.13,
+            42.25
+        ],
+        "Arm Roast": [
+            1,
+            2.72
+        ],
+        "Ribeye Steak": [
+            1,
+            1.84
+        ],
+        "Chuck Roast": [
+            2,
+            3.57
+        ],
+        "Ground Beefalo": [
+            18,
+            24.52
+        ],
+        "Minute Steak": [
+            1,
+            1.95
+        ],
+        "New York Strip": [
+            1,
+            1.17
+        ],
+        "Fillet": [
+            2,
+            1.5
+        ],
+        "Kansas City Strip": [
+            2,
+            2.82
+        ],
+        "Picanha": [
+            1,
+            2.16
+        ]
     },
     "cooler 68": {
-        "price": "338.14",
-        "Flanken Style Ribs": 1,
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "New York Strip": 2,
-        "Fillet": 2
+        "price": [
+            338.14,
+            42.88
+        ],
+        "Flanken Style Ribs": [
+            1,
+            1.18
+        ],
+        "Beefalo Skirt": [
+            1,
+            0.78
+        ],
+        "Sirloin Tip": [
+            1,
+            3.01
+        ],
+        "Ribeye Steak": [
+            1,
+            1.98
+        ],
+        "Chuck Roast": [
+            2,
+            4.16
+        ],
+        "Ground Beefalo": [
+            18,
+            25.01
+        ],
+        "Minute Steak": [
+            2,
+            2.86
+        ],
+        "New York Strip": [
+            2,
+            2.23
+        ],
+        "Fillet": [
+            2,
+            1.67
+        ]
     },
     "cooler 69": {
-        "price": "310.97",
-        "Flanken Style Ribs": 1,
-        "Beefalo Skirt": 1,
-        "Sirloin Tip": 1,
-        "Flat Iron": 2,
-        "Ribeye Steak": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 2,
-        "New York Strip": 1,
-        "Fillet": 2,
-        "Eye of Round Roast": 1
+        "price": [
+            310.97,
+            40.6
+        ],
+        "Flanken Style Ribs": [
+            1,
+            1.18
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.52
+        ],
+        "Sirloin Tip": [
+            1,
+            1.72
+        ],
+        "Flat Iron": [
+            2,
+            1.02
+        ],
+        "Ribeye Steak": [
+            1,
+            1.85
+        ],
+        "Ground Beefalo": [
+            18,
+            24.58
+        ],
+        "Minute Steak": [
+            2,
+            2.59
+        ],
+        "New York Strip": [
+            1,
+            1.37
+        ],
+        "Fillet": [
+            2,
+            0.96
+        ],
+        "Eye of Round Roast": [
+            1,
+            3.81
+        ]
     },
     "cooler 70": {
-        "price": "327.06",
-        "Flanken Style Ribs": 1,
-        "Sirloin Tip": 1,
-        "Flat Iron": 2,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "Minute Steak": 1,
-        "New York Strip": 1,
-        "Kansas City Strip": 1,
-        "Picanha": 1
+        "price": [
+            327.06,
+            42.33
+        ],
+        "Flanken Style Ribs": [
+            1,
+            1.3
+        ],
+        "Sirloin Tip": [
+            1,
+            1.32
+        ],
+        "Flat Iron": [
+            2,
+            1.64
+        ],
+        "Ribeye Steak": [
+            1,
+            1.68
+        ],
+        "Chuck Roast": [
+            2,
+            4.41
+        ],
+        "Ground Beefalo": [
+            18,
+            25.19
+        ],
+        "Minute Steak": [
+            1,
+            1.85
+        ],
+        "New York Strip": [
+            1,
+            1.56
+        ],
+        "Kansas City Strip": [
+            1,
+            1.61
+        ],
+        "Picanha": [
+            1,
+            1.77
+        ]
     },
     "cooler 71": {
-        "price": "330.48",
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 2,
-        "Flank Steak": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 1,
-        "New York Strip": 1,
-        "Fillet": 2,
-        "Kansas City Strip": 1
+        "price": [
+            330.48,
+            41.6
+        ],
+        "Sirloin Tip": [
+            1,
+            2.63
+        ],
+        "Arm Roast": [
+            1,
+            2.27
+        ],
+        "Flat Iron": [
+            2,
+            1.68
+        ],
+        "Flank Steak": [
+            1,
+            1.33
+        ],
+        "Ribeye Steak": [
+            1,
+            2
+        ],
+        "Chuck Roast": [
+            1,
+            1.83
+        ],
+        "Ground Beefalo": [
+            18,
+            24.72
+        ],
+        "Minute Steak": [
+            1,
+            1.46
+        ],
+        "New York Strip": [
+            1,
+            1.21
+        ],
+        "Fillet": [
+            2,
+            1.07
+        ],
+        "Kansas City Strip": [
+            1,
+            1.4
+        ]
     },
     "cooler 72": {
-        "price": "320.85",
-        "Flanken Style Ribs": 1,
-        "Beefalo Skirt": 1,
-        "Tri Tip": 1,
-        "Sirloin Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 2,
-        "Ground Beefalo": 18,
-        "New York Strip": 1,
-        "Kansas City Strip": 1
+        "price": [
+            320.85,
+            42.02
+        ],
+        "Flanken Style Ribs": [
+            1,
+            1.28
+        ],
+        "Beefalo Skirt": [
+            1,
+            1.31
+        ],
+        "Tri Tip": [
+            1,
+            1.36
+        ],
+        "Sirloin Tip": [
+            1,
+            1.04
+        ],
+        "Arm Roast": [
+            1,
+            2.4
+        ],
+        "Flat Iron": [
+            1,
+            0.75
+        ],
+        "Ribeye Steak": [
+            1,
+            2.04
+        ],
+        "Chuck Roast": [
+            2,
+            4.26
+        ],
+        "Ground Beefalo": [
+            18,
+            25.02
+        ],
+        "New York Strip": [
+            1,
+            1.28
+        ],
+        "Kansas City Strip": [
+            1,
+            1.28
+        ]
     },
     "cooler 73": {
-        "price": "274.46",
-        "Tri Tip": 1,
-        "Arm Roast": 1,
-        "Flat Iron": 1,
-        "Flank Steak": 1,
-        "Ribeye Steak": 1,
-        "Chuck Roast": 1,
-        "Ground Beefalo": 18,
-        "Minute Steak": 1,
-        "New York Strip": 1
+        "price": [
+            274.46,
+            37.01
+        ],
+        "Tri Tip": [
+            1,
+            1.53
+        ],
+        "Arm Roast": [
+            1,
+            2.3
+        ],
+        "Flat Iron": [
+            1,
+            0.42
+        ],
+        "Flank Steak": [
+            1,
+            1.35
+        ],
+        "Ribeye Steak": [
+            1,
+            1.77
+        ],
+        "Chuck Roast": [
+            1,
+            1.79
+        ],
+        "Ground Beefalo": [
+            18,
+            25.08
+        ],
+        "Minute Steak": [
+            1,
+            1.7
+        ],
+        "New York Strip": [
+            1,
+            1.07
+        ]
     },
     "cooler 74": {
-        "price": "334.96",
-        "Flanken Style Ribs": 2,
-        "Sirloin Tip": 2,
-        "Ground Beefalo": 16,
-        "Minute Steak": 2,
-        "New York Strip": 1,
-        "Fillet": 2,
-        "Kansas City Strip": 1,
-        "Eye of Round Roast": 1,
-        "Bone Marrow": 5
+        "price": [
+            334.96,
+            45.86
+        ],
+        "Flanken Style Ribs": [
+            2,
+            2.99
+        ],
+        "Sirloin Tip": [
+            2,
+            3.18
+        ],
+        "Ground Beefalo": [
+            16,
+            22.22
+        ],
+        "Minute Steak": [
+            2,
+            3.4
+        ],
+        "New York Strip": [
+            1,
+            1.04
+        ],
+        "Fillet": [
+            2,
+            1.57
+        ],
+        "Kansas City Strip": [
+            1,
+            1.51
+        ],
+        "Eye of Round Roast": [
+            1,
+            3.69
+        ],
+        "Bone Marrow": [
+            5,
+            6.26
+        ]
     },
     "cooler 75": {
-        "price": "225.12",
-        "Brisket": 2
+        "price": [
+            225.12,
+            18.76
+        ],
+        "Brisket": [
+            2,
+            18.76
+        ]
     }
 }

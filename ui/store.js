@@ -7,22 +7,26 @@ fetch("../model/items.json").then(res => res.json()).then((res) => {
     // console.log(Object.keys(res))
     // console.log(Object.keys(res["cooler 1"]))
 
-    
 
     for (const key of Object.keys(res)) {
 
+        // the card element itself
         const card = document.createElement("div")
         card.classList.add("product-card")
 
+        // item on the card 
         var item = document.createElement("div")
         item.classList.add("item-contents")
         
+        // adds the name of the cooler as a p tag
         card.innerHTML += `<p>${key}</p>`
 
+        // adds all the items in there, name, amount, weight
         for (const ikey of Object.keys(res[key])) {
+            console.log(res[key][ikey])
             if (ikey == "price") continue;
             var p = document.createElement("p")
-            item.innerHTML += `<p>${ikey} ${res[key][ikey]}</p>`
+            item.innerHTML += `<p>${ikey} x${res[key][ikey][0]}, ${res[key][ikey][1]} lbs</p>`
         }
 
         
@@ -39,7 +43,7 @@ fetch("../model/items.json").then(res => res.json()).then((res) => {
 
         var pricething = document.createElement("p")
         pricething.classList.add("price")
-        pricething.innerHTML = `$${res[key]["price"]}`
+        pricething.innerHTML = `$${res[key]["price"][0]}<br> Weight: ${res[key]["price"][1]} lbs`
 
 
         card.appendChild(item)
