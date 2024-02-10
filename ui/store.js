@@ -39,7 +39,7 @@ fetch("../model/items.json").then(res => res.json()).then((res) => {
         // orderbutton.setAttribute("href", `mailto:twostatebeefalo@gmail.com?subject=Order of ${key}&body=Item(s): ${key} %0A%0AName: %0A%0APhone number: %0A%0AFedex Shipping Address: %0A%0A%0A When we receive this email, you will be sent a Quickbooks invoice that will allow you to select payment methods like credit cards, paypal, or venmo. Upon completion of your payment, your order will be shipped the next Monday or Tuesday.`)
 
         orderbutton.onclick = function() {
-            window.open(`mailto:twostatebeefalo@gmail.com?subject=Order of ${key}&body=Item(s): ${key} %0A%0AName: %0A%0APhone number: %0A%0AFedex Shipping Address: %0A%0A%0AWhen we receive this email, you will be sent a Quickbooks invoice that will allow you to select payment methods like credit cards, paypal, or venmo. Upon completion of your payment, your order will be shipped the next Monday or Tuesday.`)
+            window.location.href = `mailto:twostatebeefalo@gmail.com?subject=Order of ${key}&body=Item(s): ${key} %0A%0AName: %0A%0APhone number: %0A%0AFedex Shipping Address: %0A%0A%0AWhen we receive this email, you will be sent a Quickbooks invoice that will allow you to select payment methods like credit cards, paypal, or venmo. Upon completion of your payment, your order will be shipped the next Monday or Tuesday.`
             window.location.replace("./email.html")
         }
 
